@@ -1,0 +1,2 @@
+# Desafio_Especializacao_de_Data_Science_By_RSS
+Projeto Alura Store
